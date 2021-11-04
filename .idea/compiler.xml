@@ -8,8 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PhotoAppAccountManagement" />
-        <module name="PhotoAppDiscoveryService" />
         <module name="ApiGateway" />
+        <module name="PhotoAppDiscoveryService" />
         <module name="PhotoAppApiUsers" />
       </profile>
     </annotationProcessing>

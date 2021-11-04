@@ -21,6 +21,7 @@ public class UsersController {
         return "Working on port " + environment.getProperty("local.server.port");
     }
 
+
     @PostMapping
     public String createUser() {
         return "Create user method is called";
